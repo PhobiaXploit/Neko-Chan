@@ -13,8 +13,8 @@ class bcolors: #Ini Warna
 class adminfinder():
     print ""
     print bcolors.HEADER + "\t##################### Created PhobiaXploit  " + bcolors.ENDC
-    print bcolors.HEADER + "\t#+-+-+-+-+-+-+-+-+-+# Author ./Tsuki || Dominic404 " + bcolors.ENDC
-    print bcolors.HEADER + "\t# N e k o - C h a n # Thanks To:Ms Takyun-Mr Result-Mr.Cay-Error404 " + bcolors.ENDC
+    print bcolors.HEADER + "\t#+-+-+-+-+-+-+-+-+-+# Author ./Tsuki " + bcolors.ENDC
+    print bcolors.HEADER + "\t# N e k o - C h a n # Thanks To:Ms Takyun-Mr Result-Mr.Cay-Dominic404 " + bcolors.ENDC
     print bcolors.HEADER + "\t#+-+-+-+-+-+-+-+-+-+# g03nj4t-Mr.Xyno-W4h7u_RASTAFARA-Mr.G0L34H " + bcolors.ENDC
     print bcolors.HEADER + "\t##################### Tu4n_B4J4nG-3RL4ND1" + bcolors.ENDC
     print ""
@@ -56,7 +56,7 @@ class adminfinder():
                 # Respon Status!....
                 if response.status == 200:
                     print bcolors.GREEN + "\n\n\t+------------------------------------------------------+" + bcolors.ENDC
-                    print "%s %s" % (bcolors.GREEN + "\t[*] Neko Ketemu Kyuun.. >> " + bcolors.ENDC, bcolors.GREEN + target + bcolors.ENDC)
+                    print "%s %s" % (bcolors.GREEN + "\t[*] Neko Ketemu.... >> " + bcolors.ENDC, bcolors.GREEN + target + bcolors.ENDC)
                     print bcolors.RED + "\t[!]200 Ok \n" + bcolors.ENDC
                     print bcolors.GREEN + "\t+------------------------------------------------------+\n" + bcolors.ENDC
                     raw_input(bcolors.YELLOW + "[*] Tekan Enter Untuk Melanjutkan../...\n" + bcolors.ENDC)
